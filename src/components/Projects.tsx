@@ -38,13 +38,13 @@ const Projects: React.FC = () => {
     {
       id: 3,
       title: "Portfolio Website",
-      description: "Developed a sleek and intuitive clock interface that provides a clear and concise display of time. The design focuses on simplicity and readability, ensuring users can easily access the current time at a glance. The layout is optimized for user experience, making it a practical and visually appealing tool for everyday use.",
+      description: "Experienced Frontend Developer dedicated to crafting exceptional digital experiences that are fast, accessible, and responsive. Passionate about designing beautiful user interfaces using modern technologies. Explore my projects and connect to collaborate on innovative solutions.",
       image: "/portfolio.png",
-      tags: ["Html", "Css", "JavaScript","React"],
+      tags: ["Html", "Css", "JavaScript","React Js","Framer Motion","Email.Js"],
       category: "web",
-      demoLink: "https://vinayclock.vercel.app/",
-      codeLink: "https://github.com/gunjivinay/Clock",
-      longDescription: "Developed a sleek and intuitive clock interface that provides a clear and concise display of time. The design focuses on simplicity and readability, ensuring users can easily access the current time at a glance. The layout is optimized for user experience, making it a practical and visually appealing tool for everyday use."
+      demoLink: "https://my-portfolio-eight-vert-45.vercel.app/",
+      codeLink: "https://github.com/gunjivinay/My-Portfolio",
+      longDescription: "Experienced Frontend Developer dedicated to crafting exceptional digital experiences that are fast, accessible, and responsive. Passionate about designing beautiful user interfaces using modern technologies. Explore my projects and connect to collaborate on innovative solutions."
     }
    
    
