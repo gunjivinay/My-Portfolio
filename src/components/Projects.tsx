@@ -35,19 +35,9 @@ const Projects: React.FC = () => {
       codeLink: "https://github.com/gunjivinay/Weather-App",
       longDescription: "Designed and developed a comprehensive weather application that provides real-time weather updates and forecasts. The app displays current weather conditions, including temperature, pressure, humidity, and Air Quality Index (AQI) metrics such as CO, SO2, NO2, and O3. It also features sunrise and sunset times, a 5-day weather forecast, and hourly temperature updates throughout the day. The user-friendly interface ensures easy access to detailed weather information, making it a reliable tool for users to stay informed about weather conditions."
     },
-    {
-      id: 3,
-      title: "Portfolio Website",
-      description: "Experienced Frontend Developer dedicated to crafting exceptional digital experiences that are fast, accessible, and responsive. Passionate about designing beautiful user interfaces using modern technologies. Explore my projects and connect to collaborate on innovative solutions.",
-      image: "/portfolio.png",
-      tags: ["Html", "Css", "JavaScript","React Js","Framer Motion","Email.Js"],
-      category: "web",
-      demoLink: "https://my-portfolio-eight-vert-45.vercel.app/",
-      codeLink: "https://github.com/gunjivinay/My-Portfolio",
-      longDescription: "Experienced Frontend Developer dedicated to crafting exceptional digital experiences that are fast, accessible, and responsive. Passionate about designing beautiful user interfaces using modern technologies. Explore my projects and connect to collaborate on innovative solutions."
-    }
    
    
+
    
   ];
 

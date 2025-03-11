@@ -135,6 +135,7 @@ const Hero: React.FC = () => {
                   transition={{ duration: 0.5 }}
                 />
               </motion.a>
+              
               <motion.a 
                 href="#projects" 
                 className="px-6 py-3 border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-800 font-medium rounded-lg transition-colors"
@@ -142,6 +143,20 @@ const Hero: React.FC = () => {
                 whileTap={{ scale: 0.95 }}
               >
                 View Projects
+              </motion.a>
+              <motion.a 
+                href="https://drive.google.com/file/d/1OsbsMAuPtC6ZAps5FJdbl1ZAo79uNstp/view" 
+                className="px-6 py-3 bg-primary-600 hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 text-white font-medium rounded-lg transition-colors relative overflow-hidden group"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                <span className="relative z-10">Check Resume</span>
+                <motion.span 
+                  className="absolute inset-0 bg-white opacity-20"
+                  initial={{ x: '-100%' }}
+                  whileHover={{ x: '100%' }}
+                  transition={{ duration: 0.5 }}
+                />
               </motion.a>
             </motion.div>
           </motion.div>
