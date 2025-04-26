@@ -35,6 +35,17 @@ const Projects: React.FC = () => {
       codeLink: "https://github.com/gunjivinay/Weather-App",
       longDescription: "Designed and developed a comprehensive weather application that provides real-time weather updates and forecasts. The app displays current weather conditions, including temperature, pressure, humidity, and Air Quality Index (AQI) metrics such as CO, SO2, NO2, and O3. It also features sunrise and sunset times, a 5-day weather forecast, and hourly temperature updates throughout the day. The user-friendly interface ensures easy access to detailed weather information, making it a reliable tool for users to stay informed about weather conditions."
     },
+    {
+      id: 3,
+      title: "E-commerce Shopping Website",
+      description: "The ecommerce shopping website showcased in the screenshot features a clean and structured shopping cart interface, built using core web technologies including HTML for content structure, CSS for styling, and JavaScript for dynamic functionality. The design emphasizes responsiveness, ensuring seamless user experience across devices, achieved through media queries that adapt the layout for different screen sizes. The cart displays a comprehensive list of numbered items, likely representing product quantities or prices, formatted for readability with comma-separated values. This modern, user-friendly approach highlights efficient front-end development practices, combining aesthetic clarity with robust technical execution to deliver an intuitive shopping experience.",
+      image: "/E-commerce.png",
+      tags: ["Html", "Css", "JavaScript"],
+      category: "web",
+      demoLink: "https://e-commerce-shopping-website-dun.vercel.app/",
+      codeLink: "https://github.com/gunjivinay/E-commerce-Shopping-Website",
+      longDescription: "The ecommerce shopping website showcased in the screenshot features a clean and structured shopping cart interface, built using core web technologies including HTML for content structure, CSS for styling, and JavaScript for dynamic functionality. The design emphasizes responsiveness, ensuring seamless user experience across devices, achieved through media queries that adapt the layout for different screen sizes. The cart displays a comprehensive list of numbered items, likely representing product quantities or prices, formatted for readability with comma-separated values. This modern, user-friendly approach highlights efficient front-end development practices, combining aesthetic clarity with robust technical execution to deliver an intuitive shopping experience."
+    },
    
    
 
