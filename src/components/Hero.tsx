@@ -145,7 +145,7 @@ const Hero: React.FC = () => {
                 View Projects
               </motion.a>
               <motion.a 
-                href="https://drive.google.com/file/d/1kYqDroCf3QQzJdzGQBRhZV4fifZU1bE7/view?usp=drive_link" 
+                href="https://drive.google.com/file/d/1Zhq13gjr2EEvN5yYZwkNvhu8Y31QomJp/view?usp=sharing" 
                 className="px-6 py-3 bg-primary-600 hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 text-white font-medium rounded-lg transition-colors relative overflow-hidden group"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
